@@ -1,0 +1,6 @@
+{
+  "name": "Physics Scroll Sandbox",
+  "description": "An interactive learning sandbox demonstrating high-performance, scroll-driven physics simulations, gravity-effect animations, and delta-based velocity tracking in React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
